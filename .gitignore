@@ -1,0 +1,18 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.obj
+*.tlog
+
+# Folders
+/proj.win32/Debug.win32
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.exe
+*.test
+*.prof
+
